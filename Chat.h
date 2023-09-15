@@ -4,7 +4,6 @@
 #include <exception>
 #include <memory>
 #include "Massage.h"
-//#include "hash_table/CloseHT.h"
 
 using namespace std;
 
